@@ -22,23 +22,7 @@ public class Student {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
-	
-	
-	
-	
-	
-	
 	
 	
 	
