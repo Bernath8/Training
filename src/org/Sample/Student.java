@@ -14,7 +14,8 @@ public class Student {
 		a[4]=40;
 		a[5]=30;
 		
-		
+		System.out.println("Bernath");
+		System.out.println("LaunchX model");
 		
 		
 		
